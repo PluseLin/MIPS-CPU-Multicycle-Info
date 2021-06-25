@@ -1,5 +1,5 @@
 # MIPS-CPU-Multicycle-Info
-A brief introduction of multicycle-MIPS-CPU54 for Tongji University CSers 
+主要介绍多周期CPU54的一些难点和坑，作补充用
 
 ### 难点
 
